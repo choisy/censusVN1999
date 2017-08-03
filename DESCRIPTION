@@ -1,0 +1,10 @@
+Package: censusVN1999
+Type: Package
+Title: Vietnam Population Census of 1999
+Version: 0.1.0
+Author: Marc Choisy
+Maintainer: Marc Choisy <marc.choisy@ird.fr>
+Description: Contains the data from the Vietnam population census of 1999.
+License: MIT
+Encoding: UTF-8
+LazyData: true
